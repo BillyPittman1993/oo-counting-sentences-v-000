@@ -32,5 +32,4 @@ class String
     sentence.empty?}
     sentence_array.length
   end
-  
 end
